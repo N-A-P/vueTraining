@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.2.2)
+  - ESTabBarController-swift (2.8.0)
+  - IQKeyboardManagerSwift (6.5.5)
+  - Kingfisher (5.14.1):
+    - Kingfisher/Core (= 5.14.1)
+  - Kingfisher/Core (5.14.1)
+  - ObjectMapper (4.2.0)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - ESTabBarController-swift
+  - IQKeyboardManagerSwift
+  - Kingfisher (~> 5.0)
+  - ObjectMapper (~> 4.2.0)
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ESTabBarController-swift
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - ObjectMapper
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  ESTabBarController-swift: 05593a6ad64700b03c0eb60ff625916370aa4136
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  Kingfisher: 8050bc6f7f68cbf3908bd04df7ccbac188f6d6d6
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: fafbbd0e0c1d876b511cc31c98b0fedf1b08ed79
+
+COCOAPODS: 1.9.3
